@@ -1,0 +1,15 @@
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.AssemblyInfo.cs
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\JustPractice\JustPractice\bin\Debug\net6.0\JustPractice.exe
+C:\Users\Resad\source\repos\JustPractice\JustPractice\bin\Debug\net6.0\JustPractice.deps.json
+C:\Users\Resad\source\repos\JustPractice\JustPractice\bin\Debug\net6.0\JustPractice.runtimeconfig.json
+C:\Users\Resad\source\repos\JustPractice\JustPractice\bin\Debug\net6.0\JustPractice.dll
+C:\Users\Resad\source\repos\JustPractice\JustPractice\bin\Debug\net6.0\JustPractice.pdb
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.dll
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\refint\JustPractice.dll
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.pdb
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\JustPractice.genruntimeconfig.cache
+C:\Users\Resad\source\repos\JustPractice\JustPractice\obj\Debug\net6.0\ref\JustPractice.dll
